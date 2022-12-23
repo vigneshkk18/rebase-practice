@@ -1,1 +1,2 @@
 1. created an repository to practice rebase.
+3. added note 3 from main - github web.
